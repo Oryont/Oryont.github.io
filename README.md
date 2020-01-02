@@ -11,8 +11,8 @@ Helium is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme w
 
 [Bootstrap theme source](https://uideck.com/products/helium-ui-kit/)
 
-![helium sample](https://raw.githubusercontent.com/heliumjk/heliumjk.github.io/master/assets/images/helium-screenshot.jpg)
-![helium theme](https://raw.githubusercontent.com/heliumjk/heliumjk.github.io/master/assets/images/helium-screenshot1.jpg)
+![helium sample](https://raw.githubusercontent.com/Oryont/oryont.github.io/master/assets/images/helium-screenshot.jpg)
+![helium theme](https://raw.githubusercontent.com/Oryont/oryont.github.io/master/assets/images/helium-screenshot1.jpg)
 
 ## Features
 Though minimalistic-looking by nature, dactl is easily configurable and includes quite a lot of niceties:

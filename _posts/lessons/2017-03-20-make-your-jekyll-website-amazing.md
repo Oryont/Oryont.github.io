@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Using heliumjk.github.io"
+tagline: "Using oryont.github.io"
 tags : [bootstrap 4, web desing, jekyll]
 img : helium-jekyll.jpg
 img-mobile : 
