@@ -24,20 +24,16 @@ post_limit: 5
 title : Oryont
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
-  name : Antonio Trento
+  name : Oryont Mint
   site: https://oryont.github.io
   description : I&#39;m a web master interested in communication applied to web marketing.
   image : social-image.png
   email : oryontmint@gmail.com
   github : Oryont
   twitter : Oryont1
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
   feedburner : 
 
-twitter_username: Oryont
+twitter_username: Oryont1
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
