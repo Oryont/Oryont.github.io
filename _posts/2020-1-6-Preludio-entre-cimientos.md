@@ -12,7 +12,7 @@ Quien rememore sus tiempos mozos en la programación web sabrá lo que se siente
 Pero ahí estás tú, rechazando esa ayuda de mortales porque quieres, puedes y tu madre de deja. Así que decides trastear en opciones menos obvias y que no te hagan dejarte mucho presupuesto en hospedaje, dominios y demás cibermovidas.<br><br>
 Pero… ¿por dónde empezar? Bueno, fijo que existen muchas más, pero de la que quiero hablar la estás palpando ya mismo.<br><br>
 Seguramente te has dado cuenta de que la URL de este blog contiene el dominio github.io, esto es así porque <b>Github</b>, la famosa plataforma de almacenamiento de proyectos y control de versiones permite a sus usuarios generar contenidos web estáticos, basándose en una estructura bastante simple de gestión de ficheros. El sistema interno de nuestra querida plataforma se encarga de hacer las veces de servidor para que nosotros podamos diseñar, trastear y curiosear hasta las entrañas diferentes aspectos de la generación de contenidos web.<br><br>
-Alto ahí, no vayas tan rápido. Antes tienes que entender algunos aspectos básicos de la estructura que soporta el gestor de contenidos web de Github. Como este post se me alargaría demasiado, te dejaré una pequeña chuletilla que te ayudará a empezar.</p><br><br>
+Alto ahí, no vayas tan rápido. Antes tienes que entender algunos aspectos básicos de la estructura que soporta el gestor de contenidos web de Github. Como este post se me alargaría demasiado, te dejaré una pequeña chuletilla que te ayudará a empezar.</p>
 
 ### Jekyll, tu nueva mejor amiga
 
